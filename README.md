@@ -18,6 +18,7 @@
 
 - shahcode.com
 - safagraph.com
+- castleco.ir
 - taskpool.ir
 - erp.raahin.com
 - gostaresh.daan.ir
