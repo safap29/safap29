@@ -28,4 +28,6 @@
 - aghayevakil.guilanbar.ir
 - app.gohardani.ir
 - bahar360.ir
+- larus24.ir
+- spg24.ir
 - and more...
